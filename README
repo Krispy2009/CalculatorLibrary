@@ -1,1 +1,3 @@
 CI Tutorial from realpython.org
+
+Simple setup for automatically triggering builds of a repo, linting and running tests
